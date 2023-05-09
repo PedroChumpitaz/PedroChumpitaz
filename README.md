@@ -10,7 +10,7 @@ I have experience in customer behavior research, machine learning, agile methodo
 
 🌱 I’m constantly learning and expanding my knowledge in the field of data science. Recently, I participated in the OxML 2023 - Machine Learning Program organized by AI for Global Goals and the University of Oxford.
 
-👯 I’m looking to collaborate on data-driven projects and initiatives. I'm particularly interested in projects that intersect with my passion for education, as seen in my co-founding of Educando, a digital student platform.
+🏃‍♂️ I’m looking to collaborate on data-driven projects and initiatives. I'm particularly interested in projects that intersect with my passion for education, as seen in my co-founding of Educando, a digital student platform.
 
 📫 How to reach me: 
 - 📧 Email: pedro.chumpitaz@pucp.edu.pe
